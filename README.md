@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# react-calculator
+All credit to Tyler Potts for a great tutorial! https://www.youtube.com/watch?v=oiX-6Y2oGjI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
