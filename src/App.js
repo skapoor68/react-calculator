@@ -8,7 +8,8 @@ function App() {
 
   const updateCalc = (value) => {
     if ((calc === '' && ops.includes(value)) || // if the very first value pressed is an operator
-        (ops.includes(value) && ops.includes(calc.slice(-1)))) { // if the value pressed is an operator and the previous value pressed was also an operator
+        (ops.includes(value) && ops.includes(calc.slice(-1)))) { // if the value pressed is an operator 
+                                                                 // and the previous value pressed was also an operator
           return
         }
     setCalc(calc + value);
