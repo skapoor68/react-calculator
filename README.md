@@ -15,3 +15,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## How it looks
+<img width="426" alt="Screen Shot 2022-05-10 at 8 39 11 PM" src="https://user-images.githubusercontent.com/96704494/167746432-168f94c5-229b-431a-aa49-0b403e78b34b.png">
+
